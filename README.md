@@ -1,5 +1,7 @@
 # Welcome to Remix + Vite!
 
+This follows the original blog post [here](https://ruanmartinelli.com/blog/remix-sst-cloudflare).
+
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
 
 ## Typegen
